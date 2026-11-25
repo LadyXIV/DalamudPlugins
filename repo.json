@@ -3,7 +3,7 @@
     "Author": "Lady",
     "Name": "Moodle Macro Trigger",
     "InternalName": "MoodleMacroTrigger",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Run a macro when a moodle is applied",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/LadyXIV/MoodleMacroTrigger",
@@ -19,10 +19,10 @@
     "LoadPriority": 0,
     "Punchline": "Run a macro when a moodle is applied",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.0.0/latest.zip",
-    "LastUpdate": 1795571116,
+    "DownloadLinkInstall": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/LadyXIV/MoodleMacroTrigger/releases/download/v0.1.1.0/latest.zip",
+    "LastUpdate": 1795572061,
     "IsHide": false,
     "IsTestingExclusive": false
   }
